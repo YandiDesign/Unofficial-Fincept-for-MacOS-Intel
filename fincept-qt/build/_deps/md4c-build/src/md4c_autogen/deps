@@ -1,0 +1,7 @@
+md4c_autogen/timestamp: \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/src/CMakeLists.txt \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/src/md4c-html.pc.in \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/src/md4c.c \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/src/md4c.h \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/src/md4c.pc.in \
+	/usr/local/bin/cmake

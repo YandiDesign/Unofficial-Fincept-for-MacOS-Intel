@@ -1,0 +1,3 @@
+/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/md4c-populate.dir
+/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/edit_cache.dir
+/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/rebuild_cache.dir

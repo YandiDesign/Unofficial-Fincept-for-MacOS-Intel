@@ -1,0 +1,21 @@
+# ninja log v7
+1	50	1780745077923682128	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-mkdir	46a74a13a6200865
+1	50	1780745077923682128	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-mkdir	46a74a13a6200865
+50	2527	1780745080400832770	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-download	69f313f677ca834
+50	2527	1780745080400832770	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-download	69f313f677ca834
+2527	2620	1780745080493724554	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-update_disconnected	68390c53d609e87b
+2527	2620	1780745080493724554	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-update_disconnected	68390c53d609e87b
+2620	2666	1780745080540077235	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-patch_disconnected	58ef40b4c9241bbf
+2620	2666	1780745080540077235	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-patch_disconnected	58ef40b4c9241bbf
+2666	2713	1780745080587044007	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-configure	6b0f76744d47354b
+2666	2713	1780745080587044007	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-configure	6b0f76744d47354b
+2713	2759	1780745080633108752	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-build	d0ce100cffc91573
+2713	2759	1780745080633108752	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-build	d0ce100cffc91573
+2759	2804	1780745080677156534	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-install	6143c0250c684fdd
+2759	2804	1780745080677156534	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-install	6143c0250c684fdd
+2804	2896	1780745080768125514	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-test	59d431aa3c2e17ef
+2804	2896	1780745080768125514	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-test	59d431aa3c2e17ef
+2896	3006	1780745080878634059	CMakeFiles/qxlsx-populate-complete	922e0ec7606362f5
+2896	3006	1780745080878634059	qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-done	922e0ec7606362f5
+2896	3006	1780745080878634059	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/CMakeFiles/qxlsx-populate-complete	922e0ec7606362f5
+2896	3006	1780745080878634059	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-done	922e0ec7606362f5

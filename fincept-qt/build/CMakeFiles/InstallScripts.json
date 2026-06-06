@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-build/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-build/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-build/src/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-build/md2html/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-build/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-build/lib/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-build/cmake_install.cmake",
+		"/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

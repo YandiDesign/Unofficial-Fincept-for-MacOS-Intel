@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/CMakeFiles/qgeoview-populate"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/CMakeFiles/qgeoview-populate.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/CMakeFiles/qgeoview-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-build.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-download.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-install.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-test.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qgeoview-subbuild/qgeoview-populate-prefix/src/qgeoview-populate-stamp/qgeoview-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qgeoview-populate"
+		],
+		"name" : "qgeoview-populate"
+	}
+}

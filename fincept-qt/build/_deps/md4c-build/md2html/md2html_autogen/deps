@@ -1,0 +1,6 @@
+md2html_autogen/timestamp: \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/md2html/CMakeLists.txt \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/md2html/cmdline.c \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/md2html/cmdline.h \
+	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-src/md2html/md2html.c \
+	/usr/local/bin/cmake

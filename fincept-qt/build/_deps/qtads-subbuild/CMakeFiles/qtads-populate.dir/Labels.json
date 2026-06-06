@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/CMakeFiles/qtads-populate"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/CMakeFiles/qtads-populate.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/CMakeFiles/qtads-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-build.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-download.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-install.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-test.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qtads-populate"
+		],
+		"name" : "qtads-populate"
+	}
+}

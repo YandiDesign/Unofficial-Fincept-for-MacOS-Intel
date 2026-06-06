@@ -1,0 +1,21 @@
+# ninja log v7
+1	47	1780745081358192558	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-mkdir	dd49af364e894bfa
+1	47	1780745081358192558	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-mkdir	dd49af364e894bfa
+48	1573	1780745082882749227	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-download	4d0946ba28a4e7a8
+48	1573	1780745082882749227	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-download	4d0946ba28a4e7a8
+1573	1678	1780745082989048227	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-update_disconnected	7cb3858e6e717855
+1573	1678	1780745082989048227	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-update_disconnected	7cb3858e6e717855
+1678	1729	1780745083040326585	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-patch_disconnected	99225d79149b3e73
+1678	1729	1780745083040326585	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-patch_disconnected	99225d79149b3e73
+1729	1777	1780745083087901430	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-configure	50e364b226ee267c
+1729	1777	1780745083087901430	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-configure	50e364b226ee267c
+1777	1826	1780745083137390869	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-build	c305226515b618d3
+1777	1826	1780745083137390869	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-build	c305226515b618d3
+1827	1873	1780745083184272167	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-install	7c899e3a1eb08a8d
+1827	1873	1780745083184272167	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-install	7c899e3a1eb08a8d
+1874	1920	1780745083230626012	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-test	159c0697c6d9da2c
+1874	1920	1780745083230626012	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-test	159c0697c6d9da2c
+1920	1987	1780745083297579545	CMakeFiles/md4c-populate-complete	9eed623ae9185b31
+1920	1987	1780745083297579545	md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-done	9eed623ae9185b31
+1920	1987	1780745083297579545	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/md4c-populate-complete	9eed623ae9185b31
+1920	1987	1780745083297579545	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-done	9eed623ae9185b31

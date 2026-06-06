@@ -1,0 +1,21 @@
+# ninja log v7
+0	47	1780745085813950655	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-mkdir	3bc1243c875be3d2
+0	47	1780745085813950655	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-mkdir	3bc1243c875be3d2
+48	5181	1780745090947244081	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-download	28c06f56735c67c0
+48	5181	1780745090947244081	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-download	28c06f56735c67c0
+5181	5270	1780745091036970888	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-update_disconnected	a6df49e16c30e906
+5181	5270	1780745091036970888	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-update_disconnected	a6df49e16c30e906
+5270	5316	1780745091083195762	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-patch_disconnected	880970c11073b07b
+5270	5316	1780745091083195762	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-patch_disconnected	880970c11073b07b
+5316	5362	1780745091129072357	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-configure	531d369650772aa1
+5316	5362	1780745091129072357	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-configure	531d369650772aa1
+5362	5408	1780745091174796651	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-build	554fbf46f6c907d
+5362	5408	1780745091174796651	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-build	554fbf46f6c907d
+5408	5485	1780745091251239191	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-install	2366f546262aae94
+5408	5485	1780745091251239191	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-install	2366f546262aae94
+5486	5575	1780745091340393167	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-test	88db37609b1123cd
+5486	5575	1780745091340393167	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-test	88db37609b1123cd
+5575	5699	1780745091464466959	CMakeFiles/qtads-populate-complete	c4e21d954e47f64b
+5575	5699	1780745091464466959	qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-done	c4e21d954e47f64b
+5575	5699	1780745091464466959	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/CMakeFiles/qtads-populate-complete	c4e21d954e47f64b
+5575	5699	1780745091464466959	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qtads-subbuild/qtads-populate-prefix/src/qtads-populate-stamp/qtads-populate-done	c4e21d954e47f64b

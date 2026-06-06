@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/md4c-populate"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/md4c-populate.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/CMakeFiles/md4c-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-build.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-download.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-install.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-test.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/md4c-subbuild/md4c-populate-prefix/src/md4c-populate-stamp/md4c-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"md4c-populate"
+		],
+		"name" : "md4c-populate"
+	}
+}

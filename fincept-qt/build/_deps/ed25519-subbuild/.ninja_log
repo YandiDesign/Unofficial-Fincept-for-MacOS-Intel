@@ -1,0 +1,21 @@
+# ninja log v7
+1	48	1780745091846216337	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-mkdir	4ddb82782577b69
+1	48	1780745091846216337	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-mkdir	4ddb82782577b69
+48	1354	1780745093152826274	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-download	dba139ee480f5b86
+48	1354	1780745093152826274	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-download	dba139ee480f5b86
+1354	1440	1780745093238731279	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-update_disconnected	b26b502a10c43e4d
+1354	1440	1780745093238731279	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-update_disconnected	b26b502a10c43e4d
+1440	1495	1780745093293138449	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-patch_disconnected	643976ed85c3df73
+1440	1495	1780745093293138449	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-patch_disconnected	643976ed85c3df73
+1495	1549	1780745093347240469	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-configure	32c8c736d723dd12
+1495	1549	1780745093347240469	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-configure	32c8c736d723dd12
+1549	1595	1780745093393625106	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-build	a5910e0e815d89be
+1549	1595	1780745093393625106	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-build	a5910e0e815d89be
+1595	1647	1780745093445854621	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-install	adb38391691a10e4
+1595	1647	1780745093445854621	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-install	adb38391691a10e4
+1647	1695	1780745093493865302	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-test	312b380c980a9de2
+1647	1695	1780745093493865302	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-test	312b380c980a9de2
+1695	1775	1780745093573387617	CMakeFiles/ed25519-populate-complete	c9103749e9626aa8
+1695	1775	1780745093573387617	ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-done	c9103749e9626aa8
+1695	1775	1780745093573387617	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/CMakeFiles/ed25519-populate-complete	c9103749e9626aa8
+1695	1775	1780745093573387617	/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-done	c9103749e9626aa8

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/CMakeFiles/qxlsx-populate"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/CMakeFiles/qxlsx-populate.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/CMakeFiles/qxlsx-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-build.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-download.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-install.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-test.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/qxlsx-subbuild/qxlsx-populate-prefix/src/qxlsx-populate-stamp/qxlsx-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qxlsx-populate"
+		],
+		"name" : "qxlsx-populate"
+	}
+}

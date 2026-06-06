@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/CMakeFiles/ed25519-populate"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/CMakeFiles/ed25519-populate.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/CMakeFiles/ed25519-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-build.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-download.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-install.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-test.rule"
+		},
+		{
+			"file" : "/Users/yandidesign/download/FinceptTerminal-4.0.3/fincept-qt/build/_deps/ed25519-subbuild/ed25519-populate-prefix/src/ed25519-populate-stamp/ed25519-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ed25519-populate"
+		],
+		"name" : "ed25519-populate"
+	}
+}
